@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TQa2s9nwhff9NxvoMdcWDVvjSbEHkHyJ4/N+vkfak/RGJFIClXuRLKmHzsfMNm3G+WHKyOFLlTy57C7pL4RwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ducan\\source\\repos\\Get Facebook UDID by Anh2Ten\\Get Facebook UDID by Anh2Ten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ducan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ducan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ducan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ducan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

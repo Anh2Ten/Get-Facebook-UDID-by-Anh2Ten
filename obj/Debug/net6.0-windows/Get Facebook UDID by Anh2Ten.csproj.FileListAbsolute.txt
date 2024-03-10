@@ -1,0 +1,16 @@
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get_Facebook_UDID_by_Anh2Ten.Form1.resources
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.csproj.GenerateResource.cache
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.AssemblyInfoInputs.cache
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.AssemblyInfo.cs
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.csproj.CoreCompileInputs.cache
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\bin\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.exe
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\bin\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.deps.json
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\bin\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.runtimeconfig.json
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\bin\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.dll
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\bin\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.pdb
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.dll
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\refint\Get Facebook UDID by Anh2Ten.dll
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.pdb
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\Get Facebook UDID by Anh2Ten.genruntimeconfig.cache
+C:\Users\ducan\source\repos\Get Facebook UDID by Anh2Ten\obj\Debug\net6.0-windows\ref\Get Facebook UDID by Anh2Ten.dll
